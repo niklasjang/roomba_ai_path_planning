@@ -1,10 +1,6 @@
-# mybot_ws
-URDF model for Gazebo integrated with ROS
+# roomba_ai_path_planning
+<H1>AI Path plannign with '6' Irobot create 2</H1>
 
-This repository has several branches. Please checkout the appropriate branch for your needs. <br>
-1) <strong>base</strong> - create simple URDF model <br>
-2) <strong>base_sensors</strong> - add sensors to robot <br>
-3) <strong>navigation</strong> - enable autonomous navigation
+All basic files are from <br>
 
-For more information on running the code:  <br>
-http://moorerobots.com/blog/post/6
+<H2>http://moorerobots.com/blog/post</H2>
